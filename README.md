@@ -6,8 +6,6 @@ I primarily develop applications with Node.JS
 * Lua
 * Javascript
 * HTML
-* C#
-* Java
 
 ### Projects:
 - Eximity
