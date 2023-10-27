@@ -6,9 +6,3 @@ I primarily develop applications with Node.JS
 * Lua
 * Javascript
 * HTML
-
-### Projects:
-- Eximity
-- Aureus
-- slash-lib
-- Ralion
